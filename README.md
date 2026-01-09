@@ -10,4 +10,4 @@ Exemple d'hebergement de site Statique avec Github Pages
 Github : https://clkrvn0000.github.io/uel106/
 
 Hosting : https://celik10.hosting.unilim.fr/uel106/index.html
-V1
+V2
