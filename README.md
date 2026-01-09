@@ -7,4 +7,5 @@ Exemple d'hebergement de site Statique avec Github Pages
 - Utiliser Github Pages
 
 ## Url d'Hebergement
-url : https://clkrvn0000.github.io/uel106/
+Github : https://clkrvn0000.github.io/uel106/
+Hosting : https://celik10.hosting.unilim.fr/uel106/index.html
